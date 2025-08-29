@@ -1,0 +1,2 @@
+/usr/bin/ar qc liburg_c.a CMakeFiles/urg_c.dir/src/urg_connection.c.o CMakeFiles/urg_c.dir/src/urg_debug.c.o CMakeFiles/urg_c.dir/src/urg_ring_buffer.c.o CMakeFiles/urg_c.dir/src/urg_sensor.c.o CMakeFiles/urg_c.dir/src/urg_serial.c.o CMakeFiles/urg_c.dir/src/urg_serial_utils.c.o CMakeFiles/urg_c.dir/src/urg_tcpclient.c.o CMakeFiles/urg_c.dir/src/urg_utils.c.o CMakeFiles/urg_c.dir/src/urg_serial_utils_linux.c.o
+/usr/bin/ranlib liburg_c.a
